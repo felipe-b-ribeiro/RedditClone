@@ -1,6 +1,6 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
-Acess the project in <a href='https://reddit-clone-vercel-felipe.vercel.app' target='blank'>https://reddit-clone-vercel-felipe.vercel.app</a>
+Acess the project in <a href='https://reddit-clone-vercel-felipe.vercel.app' target='blank'>Deploy in Vercel</a>
 
 # Reddit Interface Clone
 
