@@ -1,0 +1,27 @@
+{
+  "name": "clone-reddit",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint .",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "react-router-dom": "^7.11.0",
+    "styled-components": "^6.1.19",
+    "vite": "5.0.12",
+    "@vitejs/plugin-react-swc": "4.2.2",
+    "typescript": "5.9.3"
+  },
+  "devDependencies": {
+    "@types/node": "24.10.1",
+    "@types/react": "19.2.5",
+    "@types/react-dom": "19.2.3",
+    "@types/styled-components": "5.1.36"
+  }
+}
